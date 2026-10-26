@@ -1,0 +1,8 @@
+﻿streamlit>=1.40
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+openai
+faiss-cpu
+pypdf
